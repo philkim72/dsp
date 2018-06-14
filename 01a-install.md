@@ -49,9 +49,9 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 
 **Course material for the bootcamp is compatible with Python versions 2.7 and 3.0. All HackerRank Python pre-work is configured for Python 3 only.  Therefore, Python 3 is the recommended version.**  
 
-Did you install Python 2 or 3? Why?  
+Did you install Python 2 or 3? Why?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3, cause it more compatible.
 
 ### Q2. Which Python Version Installed   
 
@@ -59,7 +59,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+python 3.6
 
  
 
